@@ -258,7 +258,7 @@ npm run lint     # Check code quality
 - [backend/README.md](./backend/README.md) - Backend specific documentation
 - [my-app/README.md](./my-app/README.md) - Frontend specific documentation
 
-## 🚢 Deployment
+##  Deployment
 
 ### Backend Deployment
 1. Push code to GitHub
@@ -302,7 +302,7 @@ npm run lint     # Check code quality
 - Safari (latest)
 - Edge (latest)
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Backend Issues
 - **Port 5000 in use**: Change port in .env or kill process
@@ -334,7 +334,7 @@ To populate MongoDB with sample data:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
-## 📜 License
+## License
 
 This project is open source and available under MIT License.
 
@@ -355,7 +355,7 @@ A: Not in the current version. This can be added as a future feature.
 **Q: How is data stored?**
 A: Data is stored in MongoDB with Mongoose schemas.
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - [ ] User authentication & multi-user support
 - [ ] Budget planning and alerts
