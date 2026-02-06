@@ -80,7 +80,7 @@ BACKEND:https://github.com/Rudhuvarshan/money-manager-backend
    - Frontend: `http://localhost:5173`
    - Backend: `http://localhost:5000`
 
-## ✨ Features
+##  Features
 
 ### Core Features ✅
 - ✅ Add Income and Expense transactions
