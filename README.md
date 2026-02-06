@@ -42,6 +42,9 @@ money-manager/
 ├── API_DOCUMENTATION.md       # API reference
 └── README.md                  # This file
 ```
+SEPARATE FILE 
+FRONTEND:https://github.com/Rudhuvarshan/money-manager-frontend
+BACKEND:https://github.com/Rudhuvarshan/money-manager-backend
 
 ##  Quick Start
 
@@ -365,25 +368,11 @@ A: Data is stored in MongoDB with Mongoose schemas.
 - [ ] Bank integration
 - [ ] Multi-currency support
 
-## 📞 Support
 
-For issues and questions:
-1. Check [SETUP_GUIDE.md](./SETUP_GUIDE.md)
-2. Review [API_DOCUMENTATION.md](./API_DOCUMENTATION.md)
-3. Check browser console for errors
-4. Review backend logs
 
-## 🎓 Learning Resources
-
-- React: https://react.dev
-- Tailwind CSS: https://tailwindcss.com
-- Express: https://expressjs.com
-- MongoDB: https://docs.mongodb.com
-- Vite: https://vitejs.dev
 
 ---
 
 **Built with ❤️ for personal finance management**
 
-Last Updated: December 2024
-Version: 1.0.0
+
